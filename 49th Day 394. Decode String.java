@@ -1,4 +1,4 @@
-// Date: 6th Dec 2023
+// Date: 5th Dec 2023
 //https://leetcode.com/problems/decode-string/
 class Solution {
     public String decodeString(String s) {
