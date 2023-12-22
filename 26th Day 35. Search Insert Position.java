@@ -1,4 +1,4 @@
-//Date : 13th Nove 2023
+//Date : 12th Nove 2023
 //https://leetcode.com/problems/search-insert-position/
 class Solution {
     public int searchInsert(int[] nums, int target) {
